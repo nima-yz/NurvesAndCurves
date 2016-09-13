@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NeuroTransmetter()
+comment0.text=\n\ Creates\ a\ new\ NeuroTransmetter\ object.\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ opticate()
+numComments=3

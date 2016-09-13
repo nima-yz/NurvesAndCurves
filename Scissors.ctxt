@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=maxh\ minh\ maxw\ minw
+comment0.target=Scissors(int,\ int,\ int,\ int)
+comment0.text=\n\ Creates\ a\ new\ Scissors\ object.\n
+comment1.params=
+comment1.target=void\ dpadNorthIsDown()
+comment1.text=\n\ Called\ when\ the\ up\ button\ is\ pressed.\ Will\ move\ the\ scissor\ up.\n
+comment2.params=
+comment2.target=void\ dpadSouthIsDown()
+comment2.text=\n\ Called\ when\ the\ down\ button\ is\ pressed.\ Will\ move\ the\ scissor\ down.\n
+comment3.params=
+comment3.target=void\ dpadEastIsDown()
+comment3.text=\n\ Called\ when\ the\ right\ button\ is\ pressed.\ Will\ move\ the\ scissor\ right.\n
+comment4.params=
+comment4.target=void\ dpadWestIsDown()
+comment4.text=\n\ Called\ when\ the\ left\ button\ is\ pressed.\ Will\ move\ the\ scissor\ left.\n
+comment5.params=
+comment5.target=void\ dpadCenterIsDown()
+comment5.text=\n\ Called\ when\ the\ space\ button\ is\ pressed.\n
+numComments=6
